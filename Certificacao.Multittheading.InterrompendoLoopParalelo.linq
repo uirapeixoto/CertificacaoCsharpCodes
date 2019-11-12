@@ -50,7 +50,6 @@ static void Tarefa01()
 	Console.WriteLine($"Completou sem interrupção? {result.IsCompleted}");
 	Console.WriteLine($"Tarefa 4: Quantos itens foram processados (parcialmente)? {result.LowestBreakIteration}");
 }
-
-
+a
 
 // Define other methods and classes here
