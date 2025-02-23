@@ -22,7 +22,6 @@ void Main()
 			int tarefaFilhaId = i;
 			Task filha = Task.Run( () => ExecutaTarefa(tarefaFilhaId));
 		}
-		
 	});
 	
 	tarefaMae.Wait();

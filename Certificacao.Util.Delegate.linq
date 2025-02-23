@@ -1,8 +1,6 @@
 <Query Kind="Program">
-  <Reference>&lt;ProgramFilesX64&gt;\Microsoft SDKs\Azure\.NET SDK\v2.9\bin\plugins\Diagnostics\Newtonsoft.Json.dll</Reference>
   <Reference>&lt;RuntimeDirectory&gt;\System.Threading.dll</Reference>
   <Reference>&lt;RuntimeDirectory&gt;\System.Threading.Tasks.dll</Reference>
-  <Namespace>Newtonsoft.Json</Namespace>
   <Namespace>System.Threading.Tasks</Namespace>
 </Query>
 
